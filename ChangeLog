@@ -89,3 +89,10 @@ Tue May 12 14:15:13 2009 Run Paint Run Run <runrun@runpaint.org>
 
 	[SMALL]
 	Ping Yahoo!, Ask, and MSN Live as well as Google.
+
+Sun Feb 14 20:47:24 2010 Mark A. Matienzo <mark@matienzo.org>
+
+	* sitemap_gen.py: v.1.7
+	
+	[SMALL]
+	Bug fixes that prevented sitemap indexes from generating the proper HTML

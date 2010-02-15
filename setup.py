@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='sitemap_gen',
-      version='1.5',
+      version='1.7',
       description='Sitemap Generator',
       license='BSD',
       author='Google Inc.',
